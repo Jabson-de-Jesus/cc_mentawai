@@ -28,7 +28,7 @@ public class DataBaseSetupListener implements ServletContextListener {
 	@Override
 	public void contextInitialized(ServletContextEvent arg0) {
 		
-		// Mapa para guardar as propriedades que também são definidas no persistence.xml
+        // Mapa para guardar as propriedades que também são definidas no persistence.xml
         // Mas aqui no caso faremos programaticamente.
         Map<String, String> persistenceUnitProperties = new HashMap<>();
         // Propriedade para criar as tabelas também existe na versão xml.
