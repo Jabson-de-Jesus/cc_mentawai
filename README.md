@@ -1,4 +1,4 @@
 cc_mentawai
 ===========
 
-Crud Comentado com Mentawai !
+Crud Comentado com Mentawai, eclipseLink(JPA) e derby embarcado !
